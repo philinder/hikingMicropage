@@ -1,2 +1,2 @@
-# schinkenpage
-this is a small test page from a bootstrap example page - see the license file
+# Hiking Micropage
+This is a small micro page for a summer sport project.
