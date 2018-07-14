@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1be53b08-6eb7-4468-a708-a7f4f9942f20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.css" afterDir="false" />
-    </list>
+    <list default="true" id="1be53b08-6eb7-4468-a708-a7f4f9942f20" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,7 +83,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="49" />
     <option name="y" value="25" />
-    <option name="width" value="1512" />
+    <option name="width" value="988" />
     <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
@@ -212,15 +209,15 @@
       <workItem from="1531077617256" duration="4069000" />
       <workItem from="1531241716265" duration="151000" />
       <workItem from="1531306905664" duration="419000" />
-      <workItem from="1531583583943" duration="386000" />
+      <workItem from="1531583583943" duration="853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6130000" />
+    <option name="totallyTimeSpent" value="6597000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="25" width="1512" height="1055" extended-state="4" />
+    <frame x="49" y="25" width="988" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -237,7 +234,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21097884" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3228745" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
